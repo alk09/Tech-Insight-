@@ -12,8 +12,8 @@ A website about the best modern technologies.
 <br></br>
 
 ## Team members <a name="teamMembers"></a>
-1. [Alex Georgiev](https://github.com/RFHristova23) as Front-End Developer and Back-End Developer
-2. [Nia Georgieva](https://github.com/LESusova23) as Designer and Scrum Trainer
+1. [Alex Georgiev](https://github.com/alk09) as Front-End Developer and Back-End Developer
+2. [Nia Georgieva](https://github.com/NGGeorgieva23) as Designer and Scrum Trainer
 
 <br></br>
 
