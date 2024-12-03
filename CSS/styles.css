@@ -46,24 +46,15 @@ img {
     text-decoration: underline;
 }
 
+.card-container {
+    display: grid;
+    
+}
+
 .card-grid {
     padding: 20px;
     display: flex;
-}
-
-.card-grid1 {
-    padding: 20px;
-    display: flex;
-}
-
-.card-grid2 {
-    padding: 20px;
-    display: flex;
-}
-
-.card-grid3{
-    padding: 20px;
-    display: flex;
+    
 }
 
 section {
