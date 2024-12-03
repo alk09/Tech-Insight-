@@ -6,15 +6,17 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
-    color: #333;
+    background-color: #f0ead2;
+    color: #6c584c;
 }
 
 header {
-    background-color: #007acc;
-    color: white;
+    background-color: #adc178;
+    color: #6c584c;
     padding: 20px;
+    border-bottom: 10px solid #6c584c;
 }
+
 
 h1 {
     text-align: center;
@@ -31,7 +33,7 @@ h1 {
 }
 
 .navbar a {
-    color: white;
+    color: #6c584c;
     text-decoration: none;
 }
 
@@ -48,9 +50,9 @@ section {
 }
 
 .product {
-    background-color: white;
+    background-color: #adc178;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px #6c584c;
     padding: 15px;
     margin-bottom: 20px;
 }
@@ -63,17 +65,18 @@ section {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #007acc;
-    color: white;
+    background-color: #adc178;
+    color: #6c584c;
+    border-top: 5px solid #6c584c;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
    .navbar li {
-       display: block; /* Stack items on smaller screens */
-       margin-bottom: 10px; /* Space between items */
+       display: block; 
+       margin-bottom: 10px;
    }
    .product {
-       margin-bottom: 15px; /* Space between products */
+       margin-bottom: 15px;
    }
 }
