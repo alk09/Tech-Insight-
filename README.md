@@ -23,9 +23,6 @@ A website about the best modern technologies.
 <br></br>
 
 ## Technologies used <a name="technologies"></a>
-### Writing code & commiting
-<<<<<<< HEAD
+
 <img src="Documents\Tech-Insight\Tech-Insight-\img\Visual_Studio_Code" alt="Visual Studio Code" width="68"/> <img src="Documents\Tech-Insight\Tech-Insight-\img\github" alt="GitHub Icon" width="56"/>
-=======
-<img src="Documents\Tech-Insight\Tech-Insight-\img\Visual_Studio_Code" alt="Visual Studio Code" width="68"/> <img src="Documents\Tech-Insight\Tech-Insight-\img\github" alt="GitHub Icon" width="56"/>
->>>>>>> 5a4b53a48e53e0cf331cf99e17857fc9ecf5bac1
+
